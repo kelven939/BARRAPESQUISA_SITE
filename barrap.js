@@ -1,5 +1,3 @@
-console.log(1);
-
 let ul = document.querySelector(".ullista");
 ul.hidden = true;
 
